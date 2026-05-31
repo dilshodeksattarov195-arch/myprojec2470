@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpervarse",
+        "uuid": 11821420,
+        "checksum": "4xs7g"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
